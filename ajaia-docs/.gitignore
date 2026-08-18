@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.sqlite3
+db.sqlite3
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+
+# Django
+*.log
+*.pot
+*.pyc
+local_settings.py
+media/
+static/
+staticfiles/
+
+# Node / React
+node_modules/
+dist/
+dist-ssr/
+*.local
+*.tar.gz
+.env.local
+.env.*.local
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# Misc
+*.swp
+*.swo
+*~
+.DS_Store
